@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+
+frontend/
+target/
+uploads/
+.git/
+.idea/
+*.log
